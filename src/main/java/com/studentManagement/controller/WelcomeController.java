@@ -9,7 +9,7 @@ public class WelcomeController {
 	@GetMapping(value ="/welcome")
 	public String getMsg() {
 		
-		return "Welcome to Student Management";
+		return "Welcome to Student Management project for student";
 		
 		
 		
